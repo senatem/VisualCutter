@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="VisualCutter:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/VisualCutter_jar</output-path>
+    <root id="archive" name="VisualCutter.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/src/main/resouorces/META-INF/MANIFEST.MF" />
+      </element>
+    </root>
+  </artifact>
+</component>
